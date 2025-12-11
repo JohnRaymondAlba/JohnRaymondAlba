@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 <img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" width="100%">
 
-<https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTQ1NHNtZmo1cmdhczE1Z2JzcG91MHg5OGNidzRkdTI2MHdhbGFhMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s9fGBclTeUP1xoQpKY/giphy.gif>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTQ1NHNtZmo1cmdhczE1Z2JzcG91MHg5OGNidzRkdTI2MHdhbGFhMyZlcD12MV9naWZzX3NlYXJjaCZjdT1n/s9fGBclTeUP1xoQpKY/giphy.gif" alt="GIF"/>
+</p>
